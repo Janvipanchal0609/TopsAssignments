@@ -33,7 +33,7 @@ function App() {
         //props
         //<Main_props/>
 
-        //<Shopping_web/>
+        //<Shopping/>
         <Cart/>
       }
     </div>
