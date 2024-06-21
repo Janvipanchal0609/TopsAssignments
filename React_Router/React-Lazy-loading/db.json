@@ -1,0 +1,137 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "janvi",
+      "email": "janvi@gmail.com",
+      "password": "123",
+      "mobile": 9879078758,
+      "status": "Unblock",
+      "image": "https://imgmedia.lbb.in/media/2023/01/63c915fca69fcb15a4511c8c_1674122748726.jpg"
+    },
+    {
+      "id": "1713854305235",
+      "name": "Pankaj",
+      "email": "makwanap988@gmail.com",
+      "password": "123456",
+      "mobile": "8780215451",
+      "status": "Unblock",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fman-profile&psig=AOvVaw1KUrByf_KryO5OSRsJmuYr&ust=1713940308531000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCchqjb14UDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "1713856630464",
+      "name": "Janvi Panchal",
+      "email": "janvipanchal0609@gmail.com",
+      "password": "1234",
+      "mobile": "09879078758",
+      "status": "Unblock",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fman-profile&psig=AOvVaw1KUrByf_KryO5OSRsJmuYr&ust=1713940308531000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCchqjb14UDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "1714017133383",
+      "name": "Janvi Panchal",
+      "email": "janvipanchal0609@gmail.com",
+      "password": "123",
+      "mobile": "09879078758",
+      "status": "Unblock",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fman-profile&psig=AOvVaw1KUrByf_KryO5OSRsJmuYr&ust=1713940308531000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCchqjb14UDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "1714567651084",
+      "name": "Janvi Panchal",
+      "email": "janvipanchal0609@gmail.com",
+      "password": "123",
+      "mobile": "09879078758",
+      "status": "Unblock",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fman-profile&psig=AOvVaw1KUrByf_KryO5OSRsJmuYr&ust=1713940308531000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCchqjb14UDFQAAAAAdAAAAABAE"
+    }
+  ],
+  "Product": [
+    {
+      "id": "1713442853387",
+      "name": "Chairs",
+      "desc": "very good",
+      "image": "https://imgmedia.lbb.in/media/2023/01/63c915fca69fcb15a4511c8c_1674122748726.jpg",
+      "price": "590"
+    },
+    {
+      "id": "1713586470845",
+      "name": "TV",
+      "desc": "nice",
+      "image": "https://m.media-amazon.com/images/I/81hHYO8oOGL.jpg",
+      "price": "2000"
+    }
+  ],
+  "Employee": [
+    {
+      "id": "1713588568483",
+      "name": "janvi panchal",
+      "desc": "nice",
+      "image": "https://imgmedia.lbb.in/media/2023/01/63c915fca69fcb15a4511c8c_1674122748726.jpg",
+      "price": "20000"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1713263008090",
+      "name": "TV",
+      "desc": "Samsung",
+      "image": "https://th.bing.com/th/id/OIP.1poMUtHVJZP_Xmcsau65mgHaHa?rs=1&pid=ImgDetMain",
+      "price": "9999"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1713263008090",
+      "name": "TV",
+      "desc": "Samsung",
+      "image": "https://th.bing.com/th/id/OIP.1poMUtHVJZP_Xmcsau65mgHaHa?rs=1&pid=ImgDetMain",
+      "price": "9999"
+    }
+  ],
+
+  "Category": [
+    {
+      "id": "1713441929655",
+      "name": "sofa",
+      "desc": "good",
+      "image": "https://m.media-amazon.com/images/I/71u3F2NZ9gL._AC_UF894,1000_QL80_.jpg",
+      "price": "100000"
+    }
+  ],
+  "Customer": [
+    {
+      "id": "1713441929655",
+      "name": "sofa",
+      "desc": "good",
+      "image": "https://m.media-amazon.com/images/I/71u3F2NZ9gL._AC_UF894,1000_QL80_.jpg",
+      "price": "100000"
+    }
+  ],
+  "Order": [
+    {
+      "id": "1713441929655",
+      "name": "sofa",
+      "desc": "good",
+      "image": "https://m.media-amazon.com/images/I/71u3F2NZ9gL._AC_UF894,1000_QL80_.jpg",
+      "price": "100000"
+    }
+  ],
+  "Payment": [
+    {
+      "id": "1713441929655",
+      "name": "sofa",
+      "desc": "good",
+      "image": "https://m.media-amazon.com/images/I/71u3F2NZ9gL._AC_UF894,1000_QL80_.jpg",
+      "price": "100000"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
